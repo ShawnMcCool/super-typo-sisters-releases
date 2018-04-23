@@ -8,7 +8,7 @@ Unfortunately, we didn't create much content so there's a couple very short maps
 
 [Twitter Contact](https://twitter.com/ShawnMcCool)
 
-![Super Typo Sisters Screenshot](https://raw.githubusercontent.com/ShawnMcCool/super-typo-sisters-releases/master/screenshot.jpg)
+![Super Typo Sisters Screenshot](https://raw.githubusercontent.com/ShawnMcCool/super-typo-sisters-releases/master/screenshot.png)
 
 [Linux Build](https://github.com/ShawnMcCool/super-typo-sisters-releases/raw/master/Super%20Typo%20Sisters%20Linux.zip)
 
