@@ -15,3 +15,6 @@ Unfortunately, we didn't create much content so there's a couple very short maps
 [Windows Build](https://github.com/ShawnMcCool/super-typo-sisters-releases/raw/master/Super%20Typo%20Sisters%20Windows.zip)
 
 [OSX Build](https://github.com/ShawnMcCool/super-typo-sisters-releases/raw/master/Super%20Typo%20Sisters%20Mac.zip)
+
+[WebGL Build]()
+
