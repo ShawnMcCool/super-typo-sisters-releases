@@ -8,6 +8,8 @@ Unfortunately, we didn't create much content so there's a couple very short maps
 
 [Twitter Contact](https://twitter.com/ShawnMcCool)
 
+You can play the [web build here](https://s3.amazonaws.com/game-i-made/super-typo-sisters/index.html).
+
 ![Super Typo Sisters Screenshot](https://raw.githubusercontent.com/ShawnMcCool/super-typo-sisters-releases/master/screenshot.png)
 
 [Linux Build](https://github.com/ShawnMcCool/super-typo-sisters-releases/raw/master/Super%20Typo%20Sisters%20Linux.zip)
@@ -16,5 +18,5 @@ Unfortunately, we didn't create much content so there's a couple very short maps
 
 [OSX Build](https://github.com/ShawnMcCool/super-typo-sisters-releases/raw/master/Super%20Typo%20Sisters%20Mac.zip)
 
-[WebGL Build]()
+[WebGL Build](https://github.com/ShawnMcCool/super-typo-sisters-releases/raw/master/Super%20Typo%20Sisters%20WebGL.zip)
 
