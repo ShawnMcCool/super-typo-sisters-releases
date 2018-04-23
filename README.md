@@ -8,7 +8,7 @@ Unfortunately, we didn't create much content so there's a couple very short maps
 
 [Twitter Contact](https://twitter.com/ShawnMcCool)
 
-You can play the [web build here](https://s3.amazonaws.com/game-i-made/super-typo-sisters/index.html).
+You can play the web build here at [mirror 1](http://shawnmccool.github.io/) or here [at mirror 2](https://s3.amazonaws.com/game-i-made/super-typo-sisters/index.html).
 
 ![Super Typo Sisters Screenshot](https://raw.githubusercontent.com/ShawnMcCool/super-typo-sisters-releases/master/screenshot.png)
 
